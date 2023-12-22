@@ -1,0 +1,14 @@
+namespace advent_of_code_2023.days;
+
+public class _dayNumberPart : DayBase
+{
+	public _2A()
+		: base("days/{dayNumber}/data.txt") { }
+
+	public override int Run()
+	{
+		int result = 0;
+
+		return result;
+	}
+}
